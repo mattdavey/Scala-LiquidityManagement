@@ -4,7 +4,7 @@
 		module="liquiditymanagement$sources_javadoc_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20131129094825"
+		publication="20131129101240"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
